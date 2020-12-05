@@ -27,7 +27,7 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-- None at the time of writing
+- OBS locale must be set to English
 
 ## Release Notes
 
